@@ -1,0 +1,44 @@
+{
+  "trabajadores": [
+    {
+      "nombre_trabajador": "Miguel Daniel",
+      "apellido_trabajador": "Vallejos Salas",
+      "profesion": "Doctor",
+      "puesto": "Medico de cabecera",
+      "DNI": "78903568",
+      "user": "Miguel",
+      "contrase\u00f1a": "123"
+    },
+    {
+      "nombre_trabajador": "Manuel Miguel",
+      "apellido_trabajador": "123",
+      "profesion": "M\u00e9dico",
+      "puesto": "Gerente",
+      "DNI": "59326815",
+      "user": "Manuel",
+      "contrase\u00f1a": "123"
+    }
+  ],
+  "administradores": [
+    {
+      "user": "admin",
+      "contrase\u00f1a": "admin",
+      "rango_admin": "admin"
+    },
+    {
+      "user": "admin2",
+      "contrase\u00f1a": "admin2",
+      "rango_admin": "admin2"
+    }
+  ],
+  "clientes": [
+    {
+      "user": "Gabriel",
+      "contrase\u00f1a": "123"
+    },
+    {
+      "user": "Lucas ",
+      "contrase\u00f1a": "123"
+    }
+  ]
+}
